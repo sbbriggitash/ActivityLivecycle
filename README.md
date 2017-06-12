@@ -25,4 +25,4 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ### *__Lalu, coba klik tombol back pada device yang digunakan, cek pada "logcat" Android Monitors dan dalam pencarian "livecycle tag" dan perhatikan informasi yang muncul, maka dapat dilihat bahwa method onPause, method onStop dan method onDestroy sedang dijalankan__*
 ![screenshots](https://github.com/sbbriggitash/ActivityLivecycle/blob/master/AL-7.PNG)<br><br><br>
 
-## Shafhira Briggita Y._XI RPL 4_31_4836/1555.070_SMK Telkom Malang
+## Shafhira Briggita Y._XI RPL 4_31_4835/1554.070_SMK Telkom Malang
